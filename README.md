@@ -4,6 +4,11 @@ A real-time web interface for interacting with ROS2 robots through a modern Reac
 
 **Developed during the Robotics Collective Hackathon for Kinova robots.**
 
+Hackathon Team:
+- Moritz
+- Frank
+- Diyar
+
 ## Overview
 
 This project provides a complete web-based interface for controlling and monitoring ROS2 robots. It was originally developed for **Kinova robots** during the Robotics Collective Hackathon, but can be adapted for other robots by configuring different ROS2 topics.
